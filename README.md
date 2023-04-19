@@ -7,6 +7,7 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cortesjonathan&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortesjonathan&count_private=true&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 https://api.githubtrends.io/user/svg/cortesjonathan/langs?time_range=one_year&include_private=True&compact=True&theme=classic
 
 
