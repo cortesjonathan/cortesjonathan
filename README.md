@@ -8,6 +8,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cortesjonathan&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortesjonathan&count_private=true&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=cortesjonathan&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
 
 <!--
 **cortesjonathan/cortesjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
